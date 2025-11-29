@@ -1,0 +1,10 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Bonjour à toi!");
+        Console.ReadLine();
+    }
+}
